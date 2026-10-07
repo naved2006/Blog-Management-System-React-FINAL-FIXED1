@@ -1,0 +1,141 @@
+{
+  "blogs": [
+    {
+      "id": "2",
+      "title": "JavaScript Array Methods",
+      "author": "Priya Patel",
+      "email": "priya@example.com",
+      "category": "JavaScript",
+      "image": "https://images.unsplash.com/photo-1627398242454-45a1465c2479?auto=format&fit=crop&w=1000&q=80",
+      "description": "Understand map, filter, find, reduce and other useful JavaScript methods.",
+      "content": "Array methods make JavaScript code cleaner and easier to maintain. This article explains the most common methods with beginner-friendly examples.",
+      "tags": [
+        "javascript",
+        "arrays",
+        "frontend"
+      ],
+      "publishDate": "2026-09-28",
+      "status": "Published"
+    },
+    {
+      "id": "3",
+      "title": "Redux Toolkit for Beginners",
+      "author": "Amit Shah",
+      "email": "amit@example.com",
+      "category": "Redux",
+      "image": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=1000&q=80",
+      "description": "A simple introduction to Redux Toolkit, slices, actions and the store.",
+      "content": "Redux Toolkit provides a modern way to manage shared application state. We create a store, slice and async actions in a simple project.",
+      "tags": [
+        "redux",
+        "toolkit",
+        "state"
+      ],
+      "publishDate": "2026-09-25",
+      "status": "Published"
+    },
+    {
+      "id": "4",
+      "title": "Working with REST APIs",
+      "author": "Neha Mehta",
+      "email": "neha@example.com",
+      "category": "API",
+      "image": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?auto=format&fit=crop&w=1000&q=80",
+      "description": "Learn how a React application can communicate with a REST API.",
+      "content": "APIs allow front-end applications to read and change data. We use Axios and JSON Server to practice GET, POST, PUT and DELETE requests.",
+      "tags": [
+        "api",
+        "axios",
+        "json-server"
+      ],
+      "publishDate": "2026-09-20",
+      "status": "Published"
+    },
+    {
+      "id": "5",
+      "title": "CSS Responsive Design",
+      "author": "Vivek Joshi",
+      "email": "vivek@example.com",
+      "category": "CSS",
+      "image": "https://images.unsplash.com/photo-1507721999472-8ed4421c4af2?auto=format&fit=crop&w=1000&q=80",
+      "description": "Build layouts that look good on desktop, tablet and mobile screens.",
+      "content": "Responsive design uses flexible layouts, media queries and modern CSS techniques to make websites usable across different screen sizes.",
+      "tags": [
+        "css",
+        "responsive",
+        "bootstrap"
+      ],
+      "publishDate": "2026-09-15",
+      "status": "Draft"
+    },
+    {
+      "id": "6",
+      "title": "React Hooks Explained",
+      "author": "Sara Khan",
+      "email": "sara@example.com",
+      "category": "React",
+      "image": "https://images.unsplash.com/photo-1516116216624-53e697fedbea?auto=format&fit=crop&w=1000&q=80",
+      "description": "Understand useState and useEffect with practical examples.",
+      "content": "Hooks let function components use state and other React features. useState manages values while useEffect handles side effects such as API calls.",
+      "tags": [
+        "react",
+        "hooks",
+        "usestate"
+      ],
+      "publishDate": "2026-09-10",
+      "status": "Published"
+    },
+    {
+      "id": "7",
+      "title": "Form Validation in React",
+      "author": "Karan Patel",
+      "email": "karan@example.com",
+      "category": "React",
+      "image": "https://images.unsplash.com/photo-1553877522-43269d4ea984?auto=format&fit=crop&w=1000&q=80",
+      "description": "Create controlled forms and show useful validation messages.",
+      "content": "Controlled inputs keep form data in React state. Validation helps users submit complete and correctly formatted information.",
+      "tags": [
+        "forms",
+        "validation",
+        "react"
+      ],
+      "publishDate": "2026-09-05",
+      "status": "Draft"
+    },
+    {
+      "id": "8",
+      "title": "React Router Basics",
+      "author": "Mehul Desai",
+      "email": "mehul@example.com",
+      "category": "React",
+      "image": "https://images.unsplash.com/photo-1558655146-9f40138edfeb?auto=format&fit=crop&w=1000&q=80",
+      "description": "Create multiple pages in a React single-page application.",
+      "content": "React Router lets us map URLs to React components. We use routes, links and dynamic parameters for blog details and admin pages.",
+      "tags": [
+        "router",
+        "routing",
+        "react"
+      ],
+      "publishDate": "2026-08-30",
+      "status": "Published"
+    },
+    {
+      "title": "How to Learn React in 2026",
+      "author": "naved",
+      "email": "naved@gmail.com",
+      "category": "React",
+      "image": "https://images.unsplash.com/photo-1633356122544-f134324a6cee",
+      "description": "Learn React from beginner to advanced",
+      "content": "React is a popular JavaScript library for building user interfaces.",
+      "tags": [
+        "React",
+        "JavaScript",
+        "Web Development"
+      ],
+      "publishDate": "2026-10-07",
+      "status": "Published",
+      "id": "_IOED0HoYLg"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
